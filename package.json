@@ -2,7 +2,7 @@
   "name": "our-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/HashemJalloul/Our-project/",
+  "homepage": "https://ali56777.github.io/X3-EduPress/",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
