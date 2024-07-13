@@ -1,5 +1,6 @@
 import { Container } from 'react-bootstrap'
 import './GrowUs.css'
+import Vector12345 from "./../../assets/Vector.png"
 
 export default function GrowUs() {
   return (
@@ -8,7 +9,7 @@ export default function GrowUs() {
         <section className='SK-GrowUs'>
             <div className='SK-GrowUs-content'>
                 <div className='SK-GrowUs-Image'>
-                    <img src="./../../../public/imges/Vector.png" alt="Vector Image" className='SK-GrowUs-VectorImage' />
+                    <img src={Vector12345} alt="Vector Image" className='SK-GrowUs-VectorImage' />
                 </div>
                 <div className='SK-GrowUs-content2'>
                     <h2>Grow Us Your Skill With LearnPress LMS</h2>

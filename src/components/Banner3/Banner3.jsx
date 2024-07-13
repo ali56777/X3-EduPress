@@ -8,8 +8,8 @@ export default function Banner3() {
        <section className="SK-Banner3">
           <div className="SK-Banner3-content">
             <div>
-            <img src="./../../../public/imges/ed1 1.png" alt="Student" className='SK-Banner3Image1' />
-            <img src="./../../../public/imges/ed2 1.png" alt="Student" className='SK-Banner3Image2' />
+            <img src="imges/ed1 1.png" alt="Student" className='SK-Banner3Image1' />
+            <img src="/imges/ed2 1.png" alt="Student" className='SK-Banner3Image2' />
             </div>
             <div className="SK-Banner3-content2">
               <img src="./../../../public/imges/001-student 1.svg" alt="Student" className='SK-StudentImage' />

@@ -37,11 +37,11 @@ export default function Footer() {
                                     <p className='ek-address'>Address: 2321 New Design Str, Lorem Ipsum10 Hudson Yards, USA</p>
                                     <p className='ek-mail'>Tel: + (123) 2500-567-8988 <br />Mail: supportlms@gmail.com</p>
                                     <div className='social-media'>
-                                        <a href="#"><img src='./../../../public/imges/Icon.png' /></a>
-                                        <a href="#"><img src='./../../../public/imges/Icon-1.png' /></a>
-                                        <a href="#"><img src='./../../../public/imges/Icon-2.png' /></a>
-                                        <a href="#"><img src='./../../../public/imges/Icon-3.png' /></a>
-                                        <a href="#"><img src='./../../../public/imges/Icon-4.png' /></a>
+                                        <a href="#"><img src='imges/Icon.png' /></a>
+                                        <a href="#"><img src='imges/Icon-1.png' /></a>
+                                        <a href="#"><img src='imges/Icon-2.png' /></a>
+                                        <a href="#"><img src='imges/Icon-3.png' /></a>
+                                        <a href="#"><img src='imges/Icon-4.png' /></a>
                                     </div>
                                 </div>
                             </div>

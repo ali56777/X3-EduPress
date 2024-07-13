@@ -12,7 +12,7 @@ function CollapsibleExample() {
 
 <Container fluid className='flex'>
     <Navbar.Brand href="#home">
-        <img src="./../../../public/imges/LOGO.svg" alt="logo" className="SK-LogoImg" />
+        <img src="imges/LOGO.svg" alt="logo" className="SK-LogoImg" />
 
     </Navbar.Brand>
     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
@@ -35,7 +35,7 @@ function CollapsibleExample() {
         <div className="d-flex">
             <Link className="SK-LinkLogin" to="/LogIn">Login /</Link>
             <Link className="SK-LinkLogin" to="/Register"> Register</Link>
-            <img src="./../../../public/imges/Search.svg" alt="Search" className="SK-Search-icon" />
+            <img src="imges/Search.svg" alt="Search" className="SK-Search-icon" />
         </div>
 
     </Navbar.Collapse>
